@@ -9,43 +9,42 @@ This course introduces students to computer vision – the science and technolog
 ### Outline for Course Topics & Concepts
 #### wk1
 - Why computer vision?
-- Image formation
-    >Pinhole camera model, Projective geometry, Vanishing points, Homogeneous coordinates, Perspective projection, Orthographic projection
-- Lights and materials (self study)
-    >Absorption, Diffusion, Reflection, Transparency, Refraction, Flourescence, Subsurface scattering, Phosphorescence, Inter-reflection
+- Image formation: Pinhole camera model, Projective geometry, Vanishing points, Homogeneous coordinates, Perspective projection, Orthographic projection
+- Lights and materials (self study): Absorption, Diffusion, Reflection, Transparency, Refraction, Flourescence, Subsurface scattering, Phosphorescence, Inter-reflection
 #### wk2
 - Image Representation
-- Image filtering
+- Image filtering: Convolution, Guassian filter, Average filter, Separable filters, Integral images, Bilateral filtering
 #### wk3
-- Template matching
+- Template matching: Cross-correlation
 - Laplacian Filtering
 - Image Pyramids
 #### wk4
-- Model fitting
+- Model fitting: Line fitting, Least squares, Robust least squares
 - RANSAC
 - Hough transform
 #### wk5
 - Image derivatives
 - Difference of Gaussians
-- Edge detection
+- Edge detection: Canny edge detector
 - Image histograms
 #### wk6
 - Local image features
-- Interest point detection
+- Interest point detection: Corner detection, Harris corner detections
 #### wk7
 - SIFT descriptor
-- Multi-view geometry
+- Multi-view geometry: Homography
 - Image stiching
 #### wk8
 - Stereo estimation
 - Motion analysis
 - Optical flow
 #### wk9
-- Machine learning
+- Machine learning: A 10,000km high view of deep learning
 - K-nearest neighbours
 - Naive Bayes classifier
-- Linear classifier
+- Linear classifier: Bias and variance
 #### wk10
 - Mixture of Gaussian
-- Dimensionality reduction
-- Clustering
+- Dimensionality reduction: Principle Component Analysis(PCA)
+#### wk11
+- Clustering: Measnshift clustering, Agglomerative clustering, image segmentation
