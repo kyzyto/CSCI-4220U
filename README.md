@@ -9,19 +9,6 @@ This course introduces students to computer vision – the science and technolog
 ### Topics & Concepts
 1. Why computer vision?
 2. Image formation
-> – Pinhole camera model
-– Projective geometry
-– Vanishing points
-– Homogeneous coordinates
-– Perspective projection
-– Orthographic projection
-• Lights and materials (self study)
-– Absorption
-– Diffusion
-– Reflection
-– Transparency
-– Refraction
-– Flourescence
-– Subsurface scattering
-– Phosphorescence
-– Inter-reflectio
+    >Pinhole camera model, Projective geometry, Vanishing points, Homogeneous coordinates, Perspective projection, Orthographic projection
+3. Lights and materials (self study)
+    >Absorption, Diffusion, Reflection, Transparency, Refraction, Flourescence, Subsurface scattering, Phosphorescence, Inter-reflectio
