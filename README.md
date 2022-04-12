@@ -1,6 +1,12 @@
 # CSCI-4220U
-Computer Visions
-
+## `Computer Visions`
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></p><p>
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<p>
 
 ### Course Description
 This course introduces students to computer vision – the science and technology to make computers “see.” The goal of computer vision is to develop computational machinery to extract useful information from images and videos. The course will study various steps of the overall image analysis pipeline. Topics covered will include: image formation, image representation, segmentation, feature extraction, motion analysis, object detection, camera calibration, and
